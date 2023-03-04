@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290309417209",
+    "project_id": "ww2-in-your-hands",
+    "storage_bucket": "ww2-in-your-hands.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290309417209:android:78cbb222775d6f4cac1a28",
+        "android_client_info": {
+          "package_name": "com.example.ww2inyourhands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290309417209-i0sa21eauo915j1qk5a5mthl8ank6ra5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtMl85DGAcj9qqMHjt2itvu4_Cj5Ba968"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290309417209-i0sa21eauo915j1qk5a5mthl8ank6ra5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

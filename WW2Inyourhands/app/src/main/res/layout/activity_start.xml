@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StartActivity"
+    android:gravity="center"
+    >
+
+    <Button
+        android:id="@+id/start_btn"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:text="START"
+        android:textColor="@color/text_color"
+        android:textSize="40dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/hall_of_btn"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/start_btn"
+        android:text="HALL OF FAME"
+        android:textColor="@color/text_color"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>
